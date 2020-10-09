@@ -8,21 +8,21 @@ My professional goal is to grow as mobile application developer in Android and i
 
 ## Skills
 <a href="https://developer.android.com/studio" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/skill_android_studio.png?raw=true" alt="Android Studio" height="41"></a>
-<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/skill_kotlin.png?raw=true" alt="Kotlin" height="41"></a>
+<a href="https://developer.android.com/studio" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/skill_kotlin.png?raw=true" alt="Kotlin" height="41"></a>
 <br />
-<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/skill_xcode.png?raw=true" alt="Xcode" height="41"></a>
-<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/skill_swift.png?raw=true" alt="Swift" height="41"></a>
+<a href="https://developer.android.com/studio" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/skill_xcode.png?raw=true" alt="Xcode" height="41"></a>
+<a href="https://developer.android.com/studio" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/skill_swift.png?raw=true" alt="Swift" height="41"></a>
 <br />
-<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/skill_flutter.png?raw=true" alt="Flutter" height="41"></a>
-<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/skill_firebase.png?raw=true" alt="Firebase" height="41"></a>
+<a href="https://developer.android.com/studio" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/skill_flutter.png?raw=true" alt="Flutter" height="41"></a>
+<a href="https://developer.android.com/studio" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/skill_firebase.png?raw=true" alt="Firebase" height="41"></a>
 <br />
 And more...
 
 ## Find me at:
 Twitter Instagram 
-LinkedIn
+LinkedIn MyWeb
 
-> This is my Website [github.avazpar.io/cv](https://github.avazpar.io/cv)
+> This is my Website [www.avazpar.com](https://avazpar.github.io/cv/)
 
 <!--
 - 🔭 I’m currently working on ...
