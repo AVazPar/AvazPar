@@ -17,23 +17,14 @@ My professional goal is to grow as mobile application developer in Android and i
 <br />
 <a href="https://developer.android.com/studio" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/skill_flutter.png?raw=true" alt="Flutter" height="41"></a>
 <a href="https://developer.android.com/studio" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/skill_firebase.png?raw=true" alt="Firebase" height="41"></a>
-<a href="https://developer.android.com/studio" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/skill_java.png?raw=true" alt="Firebase" height="41"></a>
+<a href="https://developer.android.com/studio" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/skill_java.png?raw=true" alt="Java" height="41"></a>
 <br />
 And more...
 
 ## Find me at:
-Twitter Instagram 
-LinkedIn MyWeb
+💬 <a href="https://twitter.com/avazpar" target="_blank">Twitter</a>
+😄 <a href="https://www.instagram.com/vp.angeles/" target="_blank">Instagram</a> 
+📫 <a href="https://www.linkedin.com/in/ángeles-vázquez-parra-45b8594a/" target="_blank">LinkedIn</a> 
+🌱 <a href="https://avazpar.github.io/cv/" target="_blank">My personal website</a>
 
 > [www.avazpar.com](https://avazpar.github.io/cv/)
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
