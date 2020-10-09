@@ -27,4 +27,6 @@ And more...
 📫 <a href="https://www.linkedin.com/in/ángeles-vázquez-parra-45b8594a/" target="_blank">LinkedIn</a> 
 🌱 <a href="https://avazpar.github.io/cv/" target="_blank">My personal website</a>
 
-> [www.avazpar.com](https://avazpar.github.io/cv/)
+<!--
+> Building app with (L) from Madrid - [www.avazpar.com](https://avazpar.github.io/cv/)
+-->
