@@ -9,6 +9,9 @@ My professional goal is to grow as mobile application developer in Android and i
 <br />
 
 ## Skills
+<a href="https://developer.android.com/studio" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Android Studio" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Kotlin" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Java" height="41" width="174"></a>
 Android Kotlin Android_Studio 
 Apple Swift Xcode 
 Flutter Firebase
