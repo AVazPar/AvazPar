@@ -25,7 +25,7 @@ And more...
 Twitter Instagram 
 LinkedIn MyWeb
 
-> This is my Website [www.avazpar.com](https://avazpar.github.io/cv/)
+> [www.avazpar.com](https://avazpar.github.io/cv/)
 
 <!--
 - 🔭 I’m currently working on ...
