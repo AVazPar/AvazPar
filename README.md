@@ -9,7 +9,6 @@ My professional goal is to grow as mobile application developer in Android and i
 <br />
 
 # Skills
-
 Android Kotlin Android_Studio 
 Apple Swift Xcode 
 Flutter Firebase
