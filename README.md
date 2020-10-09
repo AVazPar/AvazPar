@@ -6,8 +6,6 @@
 
 My professional goal is to grow as mobile application developer in Android and iOS. I like to make the entire flow, starting with the analysis and design, user experience, development and finally I would like to publish it. 
 
-<br />
-
 ## Skills
 <a href="https://developer.android.com/studio" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/skill_android_studio.png?raw=true" alt="Android Studio" height="41" width="174"></a>
 <a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/skill_kotlin.png?raw=true" alt="Kotlin" height="41" width="104"></a>
@@ -19,8 +17,6 @@ My professional goal is to grow as mobile application developer in Android and i
 <a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/skill_firebase.png?raw=true" alt="Firebase" height="41" width="124"></a>
 <br />
 And more...
-
-<br />
 
 ## Find me at:
 Twitter Instagram 
