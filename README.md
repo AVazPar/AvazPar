@@ -15,6 +15,9 @@ My professional goal is to grow as mobile application developer in Android and i
 <a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/skill_xcode.png?raw=true" alt="Xcode" height="41" width="104"></a>
 <a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/skill_swift.png?raw=true" alt="Swift" height="41" width="104"></a>
 <br />
+<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/skill_flutter.png?raw=true" alt="Flutter" height="41" width="104"></a>
+<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/skill_firebase.png?raw=true" alt="Firebase" height="41" width="104"></a>
+<br />
 Android Kotlin Android_Studio 
 Apple Swift Xcode 
 Flutter Firebase
