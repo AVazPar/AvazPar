@@ -8,8 +8,8 @@ My professional goal is to grow as mobile application developer in Android and i
 
 ## Skills
 <a href="https://developer.android.com/studio" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/skill_android.png?raw=true" alt="Android Studio" height="41"></a>
-<a href="https://developer.android.com/studio" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/skill_kotlin.png?raw=true" alt="Kotlin" height="41"></a>
 <a href="https://developer.android.com/studio" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/skill_android_studio.png?raw=true" alt="Android Studio" height="41"></a>
+<a href="https://developer.android.com/studio" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/skill_kotlin.png?raw=true" alt="Kotlin" height="41"></a>
 <br />
 <a href="https://developer.android.com/studio" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/skill_ios.png?raw=true" alt="Android Studio" height="41"></a>
 <a href="https://developer.android.com/studio" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/skill_xcode.png?raw=true" alt="Xcode" height="41"></a>
