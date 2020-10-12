@@ -1,10 +1,24 @@
-# Hello, my name is Ángeles
+# <img height="60" src="https://github.com/AVazPar/AvazPar/blob/main/images/angeles.png?raw=true"> Hello, my name is Ángeles
 <b>Android & iOS developer </b>
+
+<img height="200" src="https://github.com/AVazPar/AvazPar/blob/main/images/portada_angeles.jpeg?raw=true">
 
 My professional goal is to grow as mobile appliaction developer in Android and iOS. I like to make ethe entire flow, staryting with the analysis and design, user experience, develpment and finally I would like to publish it.
 
 ## Skills
-Android, iOS, Kotlin, Swift, Flutter, Firebase, Java...
+<a href="https://developer.android.com/studio" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/images/skills/skill_android.png?raw=true" alt="Android" height="41"></a>
+<a href="https://developer.android.com/studio" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/images/skills/skill_android_studio.png?raw=true" alt="Android Studio" height="41"></a>
+<a href="https://developer.android.com/studio" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/images/skills/skill_kotlin.png?raw=true" alt="Kotlin" height="41"></a>
+<br />
+<a href="https://developer.android.com/studio" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/images/skills/skill_ios.png?raw=true" alt="iOS" height="41"></a>
+<a href="https://developer.android.com/studio" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/images/skills/skill_xcode.png?raw=true" alt="Xcode" height="41"></a>
+<a href="https://developer.android.com/studio" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/images/skills/skill_swift.png?raw=true" alt="Swift" height="41"></a>
+<br />
+<a href="https://developer.android.com/studio" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/images/skills/skill_flutter.png?raw=true" alt="Flutter" height="41"></a>
+<a href="https://developer.android.com/studio" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/images/skills/skill_firebase.png?raw=true" alt="Firebase" height="41"></a>
+<a href="https://developer.android.com/studio" target="_blank"><img src="https://github.com/AVazPar/AvazPar/blob/main/images/skills/skill_java.png?raw=true" alt="Java" height="41"></a>
+<br />
+And more...
 
 ## Find me at:
 * 💬 Tell me something in <a href="https://twitter.com/avazpar" target="_blank">Twitter</a> 
